@@ -7,5 +7,5 @@ github-markup selects an underlying library to convert the raw markup to HTML. S
 
 Please see our contributing guidelines before reporting an issue.
 
-Project 2:Data Science Tutorial
+(Project 2:Data Science Tutorial) (https://github.com/skpaudel/Hello-World)
 new user tutorial Hi Namaste I am here to learn Github and share my projects to public for more views and feedback.
